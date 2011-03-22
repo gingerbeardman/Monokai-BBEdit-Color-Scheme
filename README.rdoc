@@ -1,0 +1,27 @@
+= Monokai BBEdit Color Scheme
+
+A simple port of the Monokai TextMate theme to BBEdit.
+
+== REQUIREMENTS:
+
+You should download and install BBColors.
+
+== INSTALL:
+
+    git clone git://github.com/thiagoalessio/Monokai-BBEdit-Color-Scheme.git
+
+Put Monokai.bbcolors at
+
+    ~/Library/Application Support/BBColors/
+
+Run on Terminal
+
+    bbcolors -load "Monokai"
+
+Add the -tw switch to use bbcolors with TextWrangler
+
+    bbcolors -load "Monokai" -tw
+
+== LINKS:
+
+* BBColors: http://daringfireball.net/projects/bbcolors/
