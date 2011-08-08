@@ -1,10 +1,11 @@
 = Monokai BBEdit Color Scheme
 
 A simple port of the Monokai TextMate theme to BBEdit.
+Converted to BBEdit 10 format by Matt Sephton http://www.gingerbeardman.com
 
 == REQUIREMENTS:
 
-You should download and install BBColors.
+BBEdit 10.
 
 == INSTALL:
 
@@ -12,16 +13,10 @@ You should download and install BBColors.
 
 Put Monokai.bbcolors at
 
-    ~/Library/Application Support/BBColors/
+    ~/Library/Application Support/BBEdit/Color Schemes/
 
-Run on Terminal
-
-    bbcolors -load "Monokai"
-
-Add the -tw switch to use bbcolors with TextWrangler
-
-    bbcolors -load "Monokai" -tw
+Then activate using BBEdit Preferences: Text Colors, Color Scheme
 
 == LINKS:
 
-* BBColors: http://daringfireball.net/projects/bbcolors/
+* BBEdit: http://www.barebones.com/products/bbedit/
