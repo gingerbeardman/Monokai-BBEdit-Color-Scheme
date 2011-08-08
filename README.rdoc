@@ -17,4 +17,4 @@ Then activate using BBEdit Preferences: Text Colors, Color Scheme
 
 == LINKS:
 
-* BBEdit: http://www.barebones.com/products/bbedit/
+* BBEdit: http://www.barebones.com/products/bbedit
