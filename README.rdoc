@@ -9,8 +9,6 @@ BBEdit 10.
 
 == INSTALL:
 
-    git clone git://github.com/thiagoalessio/Monokai-BBEdit-Color-Scheme.git
-
 Put Monokai.bbcolors at
 
     ~/Library/Application Support/BBEdit/Color Schemes/
